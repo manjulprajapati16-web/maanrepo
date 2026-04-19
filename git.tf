@@ -13,6 +13,6 @@ provider "azurerm" {
 
 
 resource "azurerm_resource_group" "lesson-rg" {
-  name     = "lesson2-rg"
+  name     = "chapter-rg"
   location = "East Europe"
 }
