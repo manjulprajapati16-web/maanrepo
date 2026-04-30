@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "manjulrg" {
-  name = "manjulrg"
-  location = "central india"
+resource "azurerm_resource_group" "ayushrg" {
+  name = "ayushrg"
+  location = "south india"
 }
