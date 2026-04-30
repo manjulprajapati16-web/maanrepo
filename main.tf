@@ -1,8 +1,8 @@
-resource "azurerm_resource_group" "company1" {
-  name     = "company1"
-  location = "west us"
+resource "azurerm_resource_group" "hafsa dii" {
+  name     = "hafsa dii"
+  location = "central india"
 }
-resource "azurerm_resource_group" "company" {
-  name = "company"
-  location = "east us"
+resource "azurerm_resource_group" "maan" {
+  name = "maan"
+  location = "west us"
 }
