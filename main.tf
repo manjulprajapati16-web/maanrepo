@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "manjulrg" {
-  name = "kajalrg"
-  location = "south india"
+  name = "manjul"
+  location = "central india"
 }
