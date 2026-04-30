@@ -1,8 +1,4 @@
-resource "azurerm_resource_group" "hafsa dii" {
-  name     = "hafsa dii"
+resource "azurerm_resource_group" "manjulrg" {
+  name = "manjulrg"
   location = "central india"
-}
-resource "azurerm_resource_group" "maan16" {
-  name = "maan16"
-  location = "south india"
 }
